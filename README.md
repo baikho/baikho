@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm a Software Developer based in Antwerp, BE.
+
+FOSS Enthusiast and advocate of clean, readable and maintainable code 👨‍💻✨
+
+You can often find me in the [Drupal.org](https://drupal.org/) issue queue contributing solutions and fixing bugs 🔎
+
 <!--
 **baikho/baikho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
