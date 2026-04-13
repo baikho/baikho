@@ -1,3 +1,5 @@
+![je vous amerai toujours](./je-vous-aimerai-toujours.jpg)
+
 ## Hi there 👋
 
 I'm a Software Developer based in Antwerp, BE.
